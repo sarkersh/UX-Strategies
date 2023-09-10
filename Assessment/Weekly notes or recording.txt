@@ -1,0 +1,77 @@
+Module: UX Strategies
+Semester: 2022-23 S2 January
+Dropbox: https://www.dropbox.com/s/0kd5j0hsfjndvm8/UXStrategies-RECORDINGS-2022-23-S3-June.md?dl=0
+
+Week 1: [Introduction to HCI]
+Monday: [Portfolio (100%) review] [Intro to UX/HCI] [Principles] [Usability Testing]
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230626 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=378222ede8a8c1e3e51744e05838df6e
+
+Thursday: [UX vs HCI] [UX vs UI] [4D: Discover / Define / Design / Develop]
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230629 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=d7a97c18325bc5713dec5390b2fa5d3c
+
+Week 2: [Introduction to UX]
+Monday: [Norman / Nileson / Garrett / CUBI] (VERY IMPORTANT)
+Norman's Design principles / Nileson's 10 heuristics / Garrett's UX Model (5 planes) / CUBI UX Model
+
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230703 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=28f89385f7f02b9102a249b42ac411de
+
+Thursday: [Scope Plane: Technical & Content Requirement] [Prioritisation with MoSCoW] [Misc: Scenarios/Tasks Analysis]
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230706 1830-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=0d5666ab60dd62fb7494ed3b94663b72
+
+Week 3: [User Research]
+Monday: [User Personas (quick, see Year 2 HCI for more details)] [User Research Part 1/2] [UCD]
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230710 1832-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=ad966e9e34e1aa7ecdef87a66f1e5b18
+
+Thursday: [User Research Part 2/2: Methodology (Focus groups / Surveys / Interviews / ] [Quant vs Qual]
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230713 1819-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=42919e887e5def07f5ab22ed03f9686d
+
+Week 4: [From Persona to Design] [Use some quotes in the assignment]
+Monday: [Personas] [Scenarios] [Task Analysis] [Use cases] [User Stories]
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230717 1835-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=f685782f5cadbc69aba56cffa22a2fd0
+
+Thursday: [Issues with WebEx] [not an enjoyable User Experience with Webex :D]
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230720 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=3605a84a3d3c95724914f877b0887e47
+
+Week 5: []
+Monday: [Information Architecture (IA)] [Sample Websites]
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230724 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=f26d0a7fa05c5588aeacd6793a42a202
+
+Thursday: [IA]
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230727 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=d5e3d93b63a9e79fbcf921d883fcac52
+
+Week 6: [IA bis]
+Monday:
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230731 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=486773f78977476d1c60a84bf568dc19
+
+Thursday:
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230803 1826-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=5e0cf54b6b2f40cbbbb217f1f74a4e84
+
+Week 7: [Week 9 Lecture notes]
+[Wireframes vs Mockup vs Prototype]
+
+Monday:
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230807 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=a715cd2b178a930b3f0ea7677c7e978b
+
+Thursday:
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230810 1840-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=49346facfb36f9a676f6450230b7b675s
+
+Week 8:
+Monday: [Jakob Nielson 10 Usability Heuristics] [Usability: Users -> Goals -> Context] [Usability = Effectiveness + Efficiency + Satisfaction] [Usefulness = Usability + Utility]
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230814 1828-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=c5c91e4af60192ddda46f90ceac73f3f
+
+Thursday: [Methodology: Deductive vs Inductive] [Usability Testing] [* Samples *]
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230817 1835-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=b6b5a5c65fab0bfa51b65a3487589dd6
+
+Week 9: []
+Monday: [Usability Testing] [AE1 support]
+Webex meeting recording: Sahbi Ben Ismail - Mon 1945 - UX Strategies - Lecture-20230821 1802-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=432ec81e18a408f4bfb6093516129f76
+
+Thursday: [AE1 support] [Sample submission discussion]
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230824 1803-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=8f25e6348335bf031357893707d2f85a
+
+Week 10: [AE1 progress / support]
+Monday (Wednesday): AE1 Breakouts 1/2
+Webex meeting recording: Sahbi Ben Ismail - Wed 19:45 - UX Stratergies-20230830 1848-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=f3c88dd0d19fa67c2f51189eff6a3743
+
+Thursday: AE1 Breakouts 2/2
+Webex meeting recording: Sahbi Ben Ismail - Thu 1945 - UX Strategies - Lecture-20230831 1848-1 Recording link: https://qa-learning.webex.com/qa-learning/ldr.php?RCID=a8c531f975fc3424eea0b2ce62c6e54a
