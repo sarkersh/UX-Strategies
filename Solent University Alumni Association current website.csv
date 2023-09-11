@@ -1,0 +1,11 @@
+Users,What is your age range?,What is your gender?,Are you a Solent University student.?,Have you used the Solent University Alumni Association current website?,Do you think all necessary information on the website is readily available?,Is the use of colors and images properly done on the Solent University Alumni Association current website?,Is the use of drop-down menu properly done on the website?,Are there any crucial information being hidden behind images on the website?,Has the website appropriately respected the alumni of the Solent University?
+User 1,18-40,Female,No,No,No,No,No,No,Disagree
+User 2,18-40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Strongly agree
+User 3,40-60,Female,No,Yes,Yes,No,Yes,No,Agree
+User 4,18-40,Male,No,No,Yes,Yes,Yes,Yes,Disagree
+User 5,18-40,Female,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Strongly agree
+User 6,18-40,Male,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Strongly agree
+User 7,18-40,Female,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Strongly agree
+User 8,18-40,Female,No,No,No,No,No,No,Disagree
+User 9,40-60,Male,Maybe,Maybe,Maybe,Maybe,Maybe,Maybe,Strongly agree
+User 10,40-60,Female,No,No,No,No,No,No,Disagree
